@@ -1,6 +1,6 @@
-# Hello, world! | Olá, mundo!
+# Hello, world! Olá, mundo!
 
-## Read me first | Leia-me primeiro
+#### Read me first| Leia-me primeiro
 
 
 #### [Click here for english](README_en.md)
