@@ -3,6 +3,6 @@
 #### Read me first| Leia-me primeiro
 
 
-#### [Click here for english](README_en.md)
+#### [Click here for english](http://hello-world.hackbox.link/README_en.html)
 
-#### [Ou clique aqui para português](README_pt.md)
+#### [Ou clique aqui para português](http://hello-world.hackbox.link/README_pt.html)
