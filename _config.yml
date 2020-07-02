@@ -1,1 +1,11 @@
 theme: jekyll-theme-leap-day
+
+# Site
+title: Hello, World
+subtitle: Simple "hello-world" site
+description: Here you can find a bit more about me
+keywords: linux, gnulinux, devops, serverless, containers
+author: Eduardo Lisboa
+language: pt
+timezone: America/Sao_Paulo
+
