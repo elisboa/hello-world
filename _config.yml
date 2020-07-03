@@ -6,8 +6,6 @@ subtitle: Simple "hello-world" site
 description: Here you can find a bit more about me
 keywords: linux, gnulinux, devops, serverless, containers
 author: Eduardo Lisboa
-language: pt
-timezone: America/Sao_Paulo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
