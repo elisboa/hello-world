@@ -5,10 +5,9 @@ title: Hello, World
 subtitle: Simple "hello-world" site
 description: Here you can find a bit more about me
 keywords: linux, gnulinux, devops, serverless, containers
-author: Eduardo Lisboa
+author: Eduardo Lisboa <elisboa@hackbox.link>
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://hello-world.hackbox.link
 root: /
-permalink_defaults:
