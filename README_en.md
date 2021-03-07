@@ -8,7 +8,8 @@ My main hobbist project is my [Linux Time Machine](https://github.com/elisboa/li
 
 Here are my other projects:
 
- - [main](https://github.com/elisboa/main) — here I store my personal settings, like vimrc, ssh config and so on 
+ - [main](https://github.com/elisboa/main) — here I store my personal settings, like vimrc, ssh config and so on. Today, it remains outdated due to [rcfiles](https://github.com/elisboa/rcfiles)
+ - [rcfiles](https://github.com/elisboa/rcfiles) — this repository has the same purpouse as [main](https://github.com/elisboa/main), but automatically updated by my [Linux Time Machine](https://github.com/elisboa/linux-time-machine.sh) on my main computer
  - [kubertips](https://github.com/elisboa/kubertips) — my basic kubernetes toolkit
  - [modo-aviao](https://github.com/elisboa/modo-aviao) — an incomplete and simple development guide for non-developers which simulates a fligth plane routine
  - [mytoolbox](https://github.com/elisboa/mytoolbox) — a simple Docker container which comes with some tools, as Ansible, Terraform and AWS CLI
