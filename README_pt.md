@@ -11,6 +11,7 @@ Quando acionada (manualmente ou via cron), ela versiona os arquivos que tiverem 
 Seguem abaixo meus outros projetos:
 
  - [main](https://github.com/elisboa/main) — aqui são armazenadas minhas configurações pessoais que podem ser públicas, como meu vimrc, configuração do SSH e assim por diante. Hoje, ele se encontra desatualizado, devido ao uso do [rcfiles](https://github.com/elisboa/rcfiles)
+ - [go](https://github.com/elisboa/go) — Minhas aulas de Golang
  - [rcfiles](https://github.com/elisboa/rcfiles) — este repositório tem a mesma proposta do [main](https://github.com/elisboa/main), porém automaticamente atualizado pela ["Máquina do Tempo para Linux"](https://github.com/elisboa/linux-time-machine.sh) em minha máquina principal
  - [kubernetes](https://github.com/elisboa/kubertips) — meu kit básico de informações para uso do Kubernetes
  - [modo-aviao](https://github.com/elisboa/modo-aviao) — Um (incompleto e simples) guia sobre programação que simula uma viagem de avião
